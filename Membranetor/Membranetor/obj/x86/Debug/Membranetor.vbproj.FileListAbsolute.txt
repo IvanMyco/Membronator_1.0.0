@@ -1,0 +1,12 @@
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\obj\x86\Debug\Membranetor.vbprojAssemblyReference.cache
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\obj\x86\Debug\Membranetor.Resources.resources
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\obj\x86\Debug\Membranetor.vbproj.GenerateResource.cache
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\obj\x86\Debug\Membranetor.vbproj.CoreCompileInputs.cache
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\bin\x86\Debug\Membranetor.exe.config
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\bin\x86\Debug\Membranetor.exe
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\bin\x86\Debug\Membranetor.pdb
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\bin\x86\Debug\Membranetor.xml
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\obj\x86\Debug\Membranetor.exe
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\obj\x86\Debug\Membranetor.xml
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\obj\x86\Debug\Membranetor.pdb
+C:\Users\ivan.micozzi\Desktop\Development\Membranetor\Membranetor\Membranetor\obj\x86\Debug\Membranetor.MainForm.resources
